@@ -1,2 +1,2 @@
-# Coursera_algorithms
-Resolução dos problemas do curso do coursera acerca de Algoritmos e estruturas em Java
+#Python3_code_academy
+Resolução dos problemas do curso do code_academy de python3
